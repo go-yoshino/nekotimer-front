@@ -18,7 +18,7 @@ export default function ViewerScreen() {
             </Row>
             <Row className="my-4">
                 <div className="d-grid gap-2">
-                    <Button>退出</Button>
+                    <Button className="p-4">退出</Button>
                 </div>
             </Row>
         </Container>
