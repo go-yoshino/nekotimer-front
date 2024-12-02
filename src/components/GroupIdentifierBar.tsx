@@ -1,6 +1,6 @@
 import { Image } from 'react-bootstrap'
 
-export default function GroupBar() {
+export default function GroupIdentifierBar() {
     return (
         <div className="d-flex justify-content-center">
             <Image className="group-icon" src="/icons/black.png" />

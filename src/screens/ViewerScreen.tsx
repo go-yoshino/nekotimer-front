@@ -1,6 +1,6 @@
 import { Button, Container, Image, Row } from 'react-bootstrap'
 import './viewer_screen.css'
-import GroupBar from '@/components/GroupBar'
+import GroupBar from '@/components/GroupIdentifierBar'
 import GroupStatusBar from '@/components/GroupStatusBar'
 import CountdownTimer from '@/components/CountdownTimer'
 
